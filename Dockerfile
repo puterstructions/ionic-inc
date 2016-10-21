@@ -1,5 +1,5 @@
 FROM node:latest
 
-RUN npm install -g cordova ionic typings
+RUN npm install -g cordova ionic
 
 EXPOSE 8100 35729
